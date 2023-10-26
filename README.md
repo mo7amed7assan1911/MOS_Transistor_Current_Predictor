@@ -1,6 +1,8 @@
 # MOS Transistor Current Predictor (WMAPE: 0.054)
 Predicting transistor current (Id) in semiconductor physics often involves considering multiple parameters. This project seeks to simplify the process and predict transistor current using reduced features.
 
+> **You can find the kaggle notebook [here](https://www.kaggle.com/code/mohamedhassan1911/mos-transistor-predictor).**
+
 ## The Challenge 💡
 The primary challenge is to predict transistor current with just the following features:
 
